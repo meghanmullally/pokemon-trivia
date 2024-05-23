@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/game.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script src="js/main.js" defer></script>
+    <title>JSD Pokémon Trivia Final Project Game Page</title>
+</head>
+
+<body>
+    <header>
+        <div class="lvl-container">
+            <p class="level">Lv:</p>
+            <p id="questionCounter">1/5</p>
+        </div>
+        <div class="hp-container">
+            <p class="progressText">HP:</p>
+            <p id="score">0</p>
+            <div id="progressBarFull"></div>
+        </div>
+    </header>
+    <div class="game-container">
+        <div class id="game">
+            <div id="question">What is the answer to this question?</div>
+            <div class="all-choices">
+                <div class="choice-container">
+                    <p class="choice-prefix">
+                        <img src="/assets/img/button-o.png" alt="console button o"/>
+                    </p>
+                    <p class="choice-text" data-number="1">Choice 1</p>
+                </div>
+                <div class="choice-container">
+                    <p class="choice-prefix">
+                        <img src="/assets/img/console-x.png" alt="console button x"/>
+                    </p>
+                    <p class="choice-text" data-number="2">Choice 2</p>
+                </div>
+                <div class="choice-container">
+                    <p class="choice-prefix">
+                        <img src="/assets/img/console-triangle.png" alt="console button triangle"/>
+                    </p>
+                    <p class="choice-text" data-number="3">Choice 3</p>
+                </div>
+                <div class="choice-container">
+                    <p class="choice-prefix">
+                        <img src="/assets/img/console-sq.png" alt="console button square"/>
+                    </p>
+                    <p class="choice-text" data-number="4">Choice 4</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script src="js/end.js" defer></script>
+    <title>Game Over</title>
+</head>
+
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+            <!-- <h1 id="gameover">Game Over</h1> -->
+            <div id="endingTxt"></div>
+            <h2 id="finalScore">0</h2>
+            <div class="form-txt">Put your username in the input below and see if you are in the Top 5!</div>
+            <form>
+                <input type="text" name="username" id="username" placeholder="username" />
+                <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>Save</button>
+            </form>
+            <a class="btn" href="/game.html">Play Again?</a>
+            <a class="btn" href="/">Go Home</a>
+        </div>
+    </div>
+</body>
+</html>
