@@ -1,0 +1,114 @@
+[
+    {
+        "question": "What type(s) is Pikachu?",
+        "choice1": "Electric",
+        "choice2": "Water",
+        "choice3": "Fire",
+        "choice4": "Grass",
+        "answer": 1
+    },
+    {
+        "question": "What generation is Bulbasaur in?",
+        "choice1": "Generation I",
+        "choice2": "Generation II",
+        "choice3": "Generation III",
+        "choice4": "Generation IV",
+        "answer": 1
+    },
+    {
+        "question": "Where is Charmander's habitat?",
+        "choice1": "Mountain",
+        "choice2": "Forest",
+        "choice3": "Sea",
+        "choice4": "Cave",
+        "answer": 1
+    },
+    {
+        "question": "Is Mewtwo legendary?",
+        "choice1": "No",
+        "choice2": "Yes",
+        "choice3": "Maybe",
+        "choice4": "I don't know",
+        "answer": 2
+    },
+    {
+        "question": "Who does Jigglypuff evolve into?",
+        "choice1": "Wigglytuff",
+        "choice2": "Clefairy",
+        "choice3": "Pikachu",
+        "choice4": "Raichu",
+        "answer": 1
+    },
+    {
+        "question": "What is Snorlax's base happiness?",
+        "choice1": "50",
+        "choice2": "70",
+        "choice3": "100",
+        "choice4": "120",
+        "answer": 2
+    },
+    {
+        "question": "How much does Gengar weigh?",
+        "choice1": "40.5 kg",
+        "choice2": "50.0 kg",
+        "choice3": "60.5 kg",
+        "choice4": "70.0 kg",
+        "answer": 1
+    },
+    {
+        "question": "How tall is Togepi?",
+        "choice1": "0.3 m",
+        "choice2": "0.4 m",
+        "choice3": "0.5 m",
+        "choice4": "0.6 m",
+        "answer": 1
+    },
+    {
+        "question": "What is Psyduck's capture rate?",
+        "choice1": "45",
+        "choice2": "75",
+        "choice3": "105",
+        "choice4": "255",
+        "answer": 4
+    },
+    {
+        "question": "What color is Slowpoke?",
+        "choice1": "Pink",
+        "choice2": "Blue",
+        "choice3": "Green",
+        "choice4": "Yellow",
+        "answer": 1
+    },
+    {
+        "question": "What is Eevee's egg group(s)?",
+        "choice1": "Field",
+        "choice2": "Fairy",
+        "choice3": "Dragon",
+        "choice4": "Flying",
+        "answer": 1
+    },
+    {
+        "question": "Does Eevee evolve from another Pokémon?",
+        "choice1": "No",
+        "choice2": "Yes",
+        "choice3": "Maybe",
+        "choice4": "I don't know",
+        "answer": 1
+    },    
+    {
+        "question": "Is Togepi mythical?",
+        "choice1": "No",
+        "choice2": "Yes",
+        "choice3": "Maybe",
+        "choice4": "I don't know",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of Ash Ketchum's first pokemon?",
+        "choice1": "Charmander",
+        "choice2": "Squirtle",
+        "choice3": "Bulbasaur",
+        "choice4": "Pikachu",
+        "answer": 4
+    }
+]
